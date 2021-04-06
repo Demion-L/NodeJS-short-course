@@ -1,0 +1,23 @@
+{
+  "name": "node-start",
+  "version": "1.0.0",
+  "description": "Node JS Course ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js" 
+  },
+  "keywords": [
+    "node",
+    "node",
+    "js"
+  ],
+  "author": "Dmitriy Latysh <pradovd4@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
